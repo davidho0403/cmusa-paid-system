@@ -1,0 +1,8 @@
+# Database Info
+/database
+
+# Mac System File
+.DS_Store
+
+# api key
+/app/key.php
